@@ -59,6 +59,8 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		
+    
 		<!-- Spring Security Crypto (Password Hashing - Already in Security, but explicit) -->
 <dependency>
     <groupId>org.springframework.security</groupId>
